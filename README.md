@@ -4,3 +4,5 @@ Step-by-step molecular dynamics
 ![](scatter.gif)
 ## 2. random trajectories
 ![](002_random_trajectories.gif)
+## 3. boundary reflections
+![](003_boundary_reflection.gif)

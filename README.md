@@ -6,3 +6,6 @@ Step-by-step molecular dynamics
 ![](002_random_trajectories.gif)
 ## 3. boundary reflections
 ![](003_boundary_reflection.gif)
+## 3. pairwise distances
+![](004_pairwise_distances.gif)
+

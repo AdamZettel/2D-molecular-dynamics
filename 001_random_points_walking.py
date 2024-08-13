@@ -12,4 +12,4 @@ for _ in range(100):
 	plt.scatter(*points, c=colors, s=100)
 	camera.snap()
 anim = camera.animate(blit=True)
-anim.save('scatter.gif')
+anim.save('001_random_points_walking.gif')
